@@ -1,0 +1,11 @@
+/* App.css */
+.bg-primary { background-color: #1c3334; }
+.text-primary { color: #D1E8E2; font-size: 18px; }
+.text-secondary { color: #D1E8E2; }
+.text-link { color: #D1E8E2; }
+.text-highlight { color: #DA7B93; font-size: 30px; }
+.bg-card { background-color: #2a4a4b; color: #D1E8E2; }
+.project-description { margin-bottom: 10px; font-size: 18px; }
+.project-title { font-weight: bold; margin-bottom: 5px; color: #DA7B93; font-size: 19px; }
+.icon-small { width: 16px; height: 16px; margin-right: 5px; }
+.flex-center { display: flex; align-items: center; }
